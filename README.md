@@ -42,7 +42,7 @@ npm install
 - Create a file .env and add the below code in it.
 ```bash
 PORT=9000
-MONGO_URI=mongodb+srv://admin:admin@cluster0.6rptlqv.mongodb.net/Products?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://*****:*****@cluster0.6rptlqv.mongodb.net/Products?retryWrites=true&w=majority&appName=Cluster0
 ```
 - Start the backend server:
 ```bash
